@@ -1,6 +1,9 @@
 # Data Analysis Project: Understanding the Relationship Between Yoga, Meditation, and Stress
-Overview
+# Overview
 This project aims to analyze data collected from interviews with 47 participants to explore the relationship between yoga, meditation, and stress levels. The primary focus is to understand whether age correlates with the practice of yoga and meditation, and how yoga may impact stress levels, particularly in the context of work-related stress.
+
+# Project Purpose
+The primary aim of this project was to investigate the efficacy of meditation in mitigating stress levels. My interest was sparked by a desire to ascertain whether meditation serves as a viable coping mechanism for stress. Initially, I opted for a relatively simple dataset from Kaggle to facilitate a structured exploration of this topic. This choice allowed me to delineate what aspects of the analysis were fruitful and what avenues required further exploration. Additionally, I leveraged this project as an opportunity to enhance my proficiency in utilizing Python libraries such as pandas, numpy, and matplotlib. By focusing on a subject of personal interest, I concurrently aimed to refine my analytical skills while satisfying my curiosity for deeper insights.
 
 # Data Analysis
 # Age and Yoga/Meditation Practice
